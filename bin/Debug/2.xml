@@ -1,0 +1,26 @@
+<?xml version="1.0"?>
+<ArrayOfQuestion xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Question>
+    <TrueFalse>false</TrueFalse>
+  </Question>
+  <Question>
+    <text>Все любят выпить</text>
+    <TrueFalse>false</TrueFalse>
+  </Question>
+  <Question>
+    <text>Все бабы суки</text>
+    <TrueFalse>false</TrueFalse>
+  </Question>
+  <Question>
+    <text>Все мужики козлы</text>
+    <TrueFalse>false</TrueFalse>
+  </Question>
+  <Question>
+    <text>Все дети прекрасны, тем более маленькие</text>
+    <TrueFalse>true</TrueFalse>
+  </Question>
+  <Question>
+    <text>Любое производство требует материальных затрат</text>
+    <TrueFalse>true</TrueFalse>
+  </Question>
+</ArrayOfQuestion>

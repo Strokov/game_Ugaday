@@ -1,0 +1,9 @@
+D:\Программирование\C#\LESSON1\Lesson1\Lesson8\bin\Debug\Lesson8.exe.config
+D:\Программирование\C#\LESSON1\Lesson1\Lesson8\bin\Debug\Lesson8.exe
+D:\Программирование\C#\LESSON1\Lesson1\Lesson8\bin\Debug\Lesson8.pdb
+D:\Программирование\C#\LESSON1\Lesson1\Lesson8\obj\Debug\Lesson8.csprojResolveAssemblyReference.cache
+D:\Программирование\C#\LESSON1\Lesson1\Lesson8\obj\Debug\Lesson8.Form1.resources
+D:\Программирование\C#\LESSON1\Lesson1\Lesson8\obj\Debug\Lesson8.Properties.Resources.resources
+D:\Программирование\C#\LESSON1\Lesson1\Lesson8\obj\Debug\Lesson8.csproj.GenerateResource.Cache
+D:\Программирование\C#\LESSON1\Lesson1\Lesson8\obj\Debug\Lesson8.exe
+D:\Программирование\C#\LESSON1\Lesson1\Lesson8\obj\Debug\Lesson8.pdb
